@@ -48,3 +48,8 @@
     <img src="https://skillicons.dev/icons?i=discord" height="32" width="32"/>
   </a>
 </div>
+<div align="center">
+<a href="https://drive.google.com/file/d/1cZuIzVWXMGqiiVhCKFoc2eSNWP7VY--3/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Details%20About%20Program-0077B5?style=for-the-badge" alt="View Details About Program" />
+</a>
+</div>
