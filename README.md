@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   <!-- Official Internshala Logo -->
-  <img src="https://github.com/shriram-02/shriram-02/blob/main/InternShala%20Logo.png?raw=true" alt="Internshala Logo" width="150" />
+  <img src="https://github.com/shriram-02/shriram-02/blob/main/Internshala%20Student%20Partner%20Banner.png?raw=true" alt="Internshala Logo" width="650" />
   
   <h1>🎓 <strong>Internshala Student Partner</strong></h1>
   <p><strong>Contributor:</strong> 𝗦𝗵𝗿𝗶𝗿𝗮𝗺 𝗟𝗮𝗵𝗮𝗻𝗲</p>
